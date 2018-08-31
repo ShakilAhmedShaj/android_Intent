@@ -18,7 +18,7 @@
         android:textSize="15sp"/>
 
     <Button
-        android:id="@+id/BTN_1"
+        android:id="@+id/BTN_2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/first_activity_BTN__text"
